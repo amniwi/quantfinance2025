@@ -1,0 +1,12 @@
+numpy
+IPython
+pandas
+yfinance
+datetime
+matplotlib
+seaborn
+sklearn
+joblib
+tensorflow
+keras
+scipy
